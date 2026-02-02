@@ -1,4 +1,4 @@
-# 🚀 LeetCodeX — Full-Stack Coding Practice Platform
+# 🚀 LeetCodeX — AI Powered Competitive Coding Platform
 
 A **production-grade coding platform** inspired by LeetCode, built end-to-end with a strong focus on **backend correctness, execution pipelines, security, and system design**.
 
